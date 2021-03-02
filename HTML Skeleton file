@@ -1,8 +1,11 @@
 <!DOCTYPE html>
 <html>
+ <head>
+    <meta charset="utf-8">
 <title>HTML Skeleton file</title>
+</head>
 <body>
-<h1>
-<h2>
+<h1>première</h1>
+<h2>duexième</h2>
 </body>
 </html>
